@@ -1,0 +1,12 @@
+D:\Programs\.labs\sadp\Lzw\Lzw\bin\Release\net6.0\Lzw.deps.json
+D:\Programs\.labs\sadp\Lzw\Lzw\bin\Release\net6.0\Lzw.dll
+D:\Programs\.labs\sadp\Lzw\Lzw\bin\Release\net6.0\Lzw.pdb
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.csproj.AssemblyReference.cache
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.AssemblyInfoInputs.cache
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.AssemblyInfo.cs
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.csproj.CoreCompileInputs.cache
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.dll
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\refint\Lzw.dll
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\Lzw.pdb
+D:\Programs\.labs\sadp\Lzw\Lzw\obj\Release\net6.0\ref\Lzw.dll
